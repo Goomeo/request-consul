@@ -1,0 +1,29 @@
+{
+  "name": "request-consul",
+  "version": "0.1.0",
+  "description": "Request plugin to get consul service with random if many occurence of specific service",
+  "main": "index.js",
+  "dependencies": {
+    "consul-node": "0.0.2",
+    "request": "^2.70.0",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Goomeo/request-consul.git"
+  },
+  "keywords": [
+    "request",
+    "consul"
+  ],
+  "author": "Goomeo",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Goomeo/request-consul/issues"
+  },
+  "homepage": "https://github.com/Goomeo/request-consul#readme"
+}
